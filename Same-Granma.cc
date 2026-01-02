@@ -5,7 +5,7 @@
 // ============================================================================
 // LICENSE AND COPYRIGHT
 // ============================================================================
-// Copyright (c) 2026 Guillaume-Gentil Robin
+// Copyright (c) 2022 Guillaume-Gentil Robin
 //
 // This code is distributed under an open source license.
 //
@@ -619,4 +619,5 @@ vector<Word> remove_word(vector<Word> dict, int i)
     }
     dict.pop_back(); // Remove last element
     return dict;
+
 }
