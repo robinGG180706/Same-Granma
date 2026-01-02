@@ -48,6 +48,7 @@ g++ -std=c++11 -o Same-Granma.cc
 
 The program reads from standard input with the following format:
 
+\`\`\`
 word1
 word2
 word3
@@ -55,6 +56,7 @@ word3
 message to find anagrams.
 another message.
 *
+\`\`\`
 
 * **Dictionary**: List of words, one per line, terminated by a single dot (.)
 * **Messages**: Sentences to find anagrams for, each ending with a dot (.)
