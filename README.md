@@ -78,20 +78,3 @@ The web interface allows you to:
 * **Optimization**: The 4-level sorting and dictionary filtering significantly reduce the search space in practice
 ## Version History
 **v4.1** (December 2022): Current version with optimized performance
-
-## License
-This code is open source and free to use. If you use this code in your projects, please provide attribution:
-
-Copyright © 2026 Guillaume-Gentil Robin
-
-## Author
-**Guillaume-Gentil Robin**
-
-* **Email**: robin_gg@icloud.com
-* **GitHub**: robinGG180706
-
-## Acknowledgments
-Developed as part of the CSS-119(c) course at EPFL (École Polytechnique Fédérale de Lausanne).
-
-## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
